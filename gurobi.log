@@ -1,0 +1,101 @@
+
+Gurobi 8.0.1 (mac64, Python) logging started Sat Dec 15 13:45:23 2018
+
+Academic license - for non-commercial use only
+Changed value of parameter TimeLimit to 300.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 1 rows, 446 columns and 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+07, 2e+09]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+01, 2e+01]
+Warning: Model contains large objective coefficients
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 9.908415e+09
+Presolve time: 0.01s
+Presolved: 1 rows, 446 columns, 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+
+Root relaxation: objective 2.482563e+10, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.482563e+10 2.4826e+10 -0.00%     -    0s
+
+Explored 0 nodes (1 simplex iterations) in 0.03 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.48256e+10 9.90842e+09 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.482563031825e+10, best bound 2.482563031825e+10, gap 0.0000%
+Changed value of parameter TimeLimit to 300.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 1 rows, 446 columns and 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+07, 2e+09]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+01, 2e+01]
+Warning: Model contains large objective coefficients
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 9.908415e+09
+Presolve time: 0.00s
+Presolved: 1 rows, 446 columns, 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+
+Root relaxation: objective 2.482563e+10, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.482563e+10 2.4826e+10 -0.00%     -    0s
+
+Explored 0 nodes (1 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.48256e+10 9.90842e+09 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.482563031825e+10, best bound 2.482563031825e+10, gap 0.0000%
+
+Gurobi 8.0.1 (mac64, Python) logging started Sun Mar 24 21:05:13 2019
+
+Academic license - for non-commercial use only
+Changed value of parameter TimeLimit to 300.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 1 rows, 446 columns and 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+07, 2e+09]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+01, 2e+01]
+Warning: Model contains large objective coefficients
+         Consider reformulating model or setting NumericFocus parameter
+         to avoid numerical issues.
+Found heuristic solution: objective 9.908415e+09
+Presolve time: 0.01s
+Presolved: 1 rows, 446 columns, 446 nonzeros
+Variable types: 0 continuous, 446 integer (446 binary)
+
+Root relaxation: objective 2.482563e+10, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    2.482563e+10 2.4826e+10 -0.00%     -    0s
+
+Explored 0 nodes (1 simplex iterations) in 0.05 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 2: 2.48256e+10 9.90842e+09 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.482563031825e+10, best bound 2.482563031825e+10, gap 0.0000%
